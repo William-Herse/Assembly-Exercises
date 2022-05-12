@@ -1,3 +1,5 @@
+A few excerise to learn how to code in assembly
+
 # Exercise 1
 
 Set the string in the variable section at the top of the code to change the output. All testing includes changing the base string into different combinations to ensure proper edge testing of the functions, which allowed us to identify bugs in the code. 
